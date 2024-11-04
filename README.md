@@ -17,7 +17,7 @@ foundation in programming, currently focusing on Python and automation.<bk>
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ovidiocalvet&show_icons=true&hide_border=true&theme=moltac" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ovidiocalvet&show_icons=true&hide_border=true&theme=moltack" alt="GitHub Stats" />
 </p>
 
 ---
