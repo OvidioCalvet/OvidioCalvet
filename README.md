@@ -2,9 +2,9 @@
 
 *Embracing the elegance of simplicity and functionality.*
 
-**Location:** Florida
-**Passion:** Blending technology with creativity  
-**Current Focus:** Python Development, Augmenting my environment with AI, and Knowledge Management with Notion
+**Location:** Florida <bk>
+**Passion:** Blending technology with creativity <bk>
+**Current Focus:** Python Development, Augmenting my environment with AI, and Knowledge Management with Notion <bk>
 
 ---
 
