@@ -1,4 +1,4 @@
-# Ciao! My name is Ovidio Calvet
+# Ciao! I'm Ovidio Calvet
 
 *Embracing the elegance of simplicity and functionality.*
 
