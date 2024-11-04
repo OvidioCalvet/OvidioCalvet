@@ -2,9 +2,9 @@
 
 *Embracing the elegance of simplicity and functionality.*
 
-**Location:** Florida <bk>
-**Passion:** Blending technology with creativity <bk>
-**Current Focus:** Python Development, Augmenting my environment with AI, and Knowledge Management with Notion <bk>
+**Location:** Florida <br />
+**Passion:** Blending technology with creativity <br />
+**Current Focus:** Python Development, Augmenting my environment with AI, and Knowledge Management with Notion <br />
 
 ---
 
@@ -19,8 +19,8 @@
 
 ## About Me
 
-I’m a developer with a passion for creating streamlined solutions that merge functionality with minimalist design.
-My focus is on automating workflows, building efficient Python scripts, and using Notion to manage and organize projects effectively.
+I’m a developer with a passion for creating streamlined solutions that merge functionality with minimalist design. <br />
+My focus is on automating workflows, building efficient Python scripts, and using Notion to manage and organize projects effectively. <br />
 
 - Currently exploring ways to improve knowledge management systems with **Python** and **Notion API**.
 - Constantly learning and inspired by the balance between **simplicity** and **functionality**.
