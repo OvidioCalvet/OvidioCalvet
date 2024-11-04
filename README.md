@@ -4,7 +4,7 @@
 
 **Location:** Florida <br />
 **Passion:** Blending technology with creativity <br />
-**Current Focus:** Python Development, Augmenting my environment with AI, and Knowledge Management with Notion <br />
+**Current Focus:** Python Development, augmenting workflows with AI, and kowledge management with Notion <br />
 
 ---
 
