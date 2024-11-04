@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
