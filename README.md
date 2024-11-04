@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @OvidioCalvet
-- 👀 I’m a student at the University of Florida - Computer Engineering Major
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any opportunity
-- 📫 How to reach me: calvetovidio@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Im a surfer 🤙 and love to play the guitar
+# Hello there 👋, I’m @OvidioCalvet
 
-<!---
-OvidioCalvet/OvidioCalvet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#
+
+Welcome to my GitHub! I’m a university student attending the Unviersity of Florida, an aspiring developer, and athlete passionate<bk> 
+about coding, fitness, and optimizing routines. My goal is to leverage technology to create efficient solutions and build a solid<bk> 
+foundation in programming, currently focusing on Python and automation.<bk> 
+
+#
+
