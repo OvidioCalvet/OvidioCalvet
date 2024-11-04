@@ -17,9 +17,21 @@
 
 ---
 
+## About Me
+
+I’m a developer with a passion for creating streamlined solutions that merge functionality with minimalist design.
+My focus is on automating workflows, building efficient Python scripts, and using Notion to manage and organize projects effectively.
+
+- Currently exploring ways to improve knowledge management systems with **Python** and **Notion API**.
+- Constantly learning and inspired by the balance between **simplicity** and **functionality**.
+
+---
+
 ## GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ovidiocalvet&show_icons=true&hide_border=true&theme=moltack" alt="GitHub Stats" />
 </p>
 
 ---
+
+*“Less is more” - Ludwig Mies van der Rohe*
