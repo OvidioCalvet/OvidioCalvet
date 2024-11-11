@@ -3,7 +3,7 @@
 *Embracing the elegance of simplicity and functionality.*
 
 **Location:** Florida <br />
-**Passion:** Blending technology with creativity <br />
+**Passion:** Making cool stuff, Cooking, & Surfing <br />
 **Current Focus:** Python Development, augmenting workflows with AI, and kowledge management with Notion <br />
 
 ---
