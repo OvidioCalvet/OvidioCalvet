@@ -23,7 +23,7 @@ I’m a rookie developer with a passion for creating streamlined solutions that 
 My focus is on automating workflows, building efficient Python scripts, and using Notion to manage and organize projects effectively. <br />
 
 - Currently exploring ways to improve knowledge management systems with **Python** and **Notion API**.
-- Constantly learning and inspired by the balance between **simplicity** and **functionality**.
+- Currently learning and inspired by the balance between **simplicity** and **functionality**.
 - Currently learning how to develop healthy routines in order to maximize workflow productivity and focus ability
 - Currently learning the science behind the idea of maximizing sleep and health in order to increase brain health
 
