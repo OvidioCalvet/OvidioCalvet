@@ -1,4 +1,4 @@
-# Ciao! I'm Ovidio Calvet
+# Hola! I'm Ovidio Calvet
 
 *Embracing the elegance of simplicity and functionality.*
 
@@ -19,10 +19,10 @@
 
 ## About Me
 
-I’m a rookie developer with a passion for creating streamlined solutions that merge functionality with minimalist design. <br />
-My focus is on automating workflows, building efficient Python scripts, and using Notion to manage and organize projects effectively. <br />
+I’m a rookie developer with a passion for creating new things and discovering the world of computer science. <br />
+My focus is on learning and building efficient Python scripts, apply principles learned at school within my projects, and becoming 1% better everyday. <br />
 
-- Currently exploring ways to improve knowledge management systems with **Python** and **Notion API**.
+- Currently exploring ways to improve my knowledge management with Notion and analog implementations
 - Currently learning and inspired by the balance between **simplicity** and **functionality**.
 - Currently learning how to develop healthy routines in order to maximize workflow productivity and focus ability
 - Currently learning the science behind the idea of maximizing sleep and health in order to increase brain health
