@@ -19,8 +19,8 @@
 
 ## About Me
 
-I’m a rookie developer with a passion for creating new things and discovering the world of computer science. <br />
-My focus is on learning and building efficient Python scripts, apply principles learned at school within my projects, and becoming 1% better everyday. <br />
+I’m a rookie developer with a passion for creating new things and discovering the world of computer science. My focus is on learning and building efficient Python scripts, 
+applying techniques and principles learned in school within my projects, and becoming 1% better everyday. <br />
 
 - Currently exploring ways to improve my knowledge management with Notion and analog implementations
 - Currently learning and inspired by the balance between **simplicity** and **functionality**.
