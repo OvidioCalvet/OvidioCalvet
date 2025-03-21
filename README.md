@@ -22,9 +22,10 @@ class AboutMe:
 
   def getAmbitions():
       return [
-                  "Learn Italian",
+                  "Never stop learning",
                   "Earn an Internship",
-                  "Design and build my own home in Italy"
+                  "Design and build my own home"
+                  "Make an impact on society"
              ]
 
 
