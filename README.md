@@ -5,7 +5,7 @@ About Me
 class AboutMe:
     name = "Ovidio Calvet"
     university = "University of Florida"
-    year = "Freshman"
+    year = "Sophomore"
     hobbies = [
                   "Surfing",
                   "Lacrosse",
