@@ -1,6 +1,5 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 About Me
----
 ```python
 class AboutMe:
     name = "Ovidio Calvet"
@@ -24,7 +23,7 @@ class AboutMe:
       return [
                   "Never stop learning",
                   "Earn an Internship",
-                  "Design and build my own home"
+                  "Design and build my own home",
                   "Make an impact on society"
              ]
 
