@@ -3,10 +3,9 @@
 class AboutMe:
     name = "Ovidio Calvet"
     university = "University of Florida"
-    year = "Sophomore"
     hobbies = [
                   "Surfing",
-                  "Lacrosse",
+                  "Running",
                   "Playing Guitar",
                   "Brain Health & Nutrition",
                   "Self Improvement"
@@ -22,8 +21,5 @@ class AboutMe:
       return [
                   "Never stop learning",
                   "Earn an Internship",
-                  "Design and build my own home",
-                  "Make an impact on society"
+                  "Design and build my own home"
              ]
-
-
